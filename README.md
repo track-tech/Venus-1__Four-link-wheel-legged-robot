@@ -92,7 +92,6 @@
 使用到的中心分电板同样是之前顺便画的
 
 >分电板开源链接
->
 >[XT60/XT30分电板 | CAN Bus分线板]: https://oshwhub.com/marktracker/xt60-xt30-fen-dian-ban-can-fen-xian-ban
 >
 >
