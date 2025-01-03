@@ -1,0 +1,4 @@
+工程文件使用STM32CubeMX生成基础框架&移植FreeRTOS，使用KEIL5编辑工程文件
+任务函数运行周期见cubemx配置
+
+
