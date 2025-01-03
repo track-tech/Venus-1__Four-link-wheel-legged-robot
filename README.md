@@ -94,6 +94,8 @@
 >分电板开源链接
 >
 >[XT60/XT30分电板 | CAN Bus分线板]: https://oshwhub.com/marktracker/xt60-xt30-fen-dian-ban-can-fen-xian-ban
+>
+>
 
 <img src=".\3.Docs & Pic\最终测试插图\分线板实物图.jpeg" alt="分线板实物图" style="zoom: 30%;" />
 
