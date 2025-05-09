@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "can_drv.h": "c",
+        "gpio_drv.h": "c",
+        "iic_drv.h": "c",
+        "tim_drv.h": "c",
+        "uart_drv.h": "c",
+        "mi_motor_dev.h": "c",
+        "freertos.h": "c",
+        "task.h": "c",
+        "system_task.h": "c",
+        "device_dev.h": "c",
+        "dji_motor_dev.h": "c",
+        "bsp_usart_fputc.h": "c",
+        "cmsis_os.h": "c",
+        "control_task.h": "c",
+        "chassis_task.h": "c",
+        "driver_drv.h": "c"
+    }
+}

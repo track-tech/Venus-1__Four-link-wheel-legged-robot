@@ -1,0 +1,24 @@
+venusmainprogram_stm32h723_freertos/quaternionmathfunctions.o: \
+  D:\Keil_v5_Packs\ARM\CMSIS-DSP\1.15.0\Source\QuaternionMathFunctions\QuaternionMathFunctions.c \
+  D:\Keil_v5_Packs\ARM\CMSIS-DSP\1.15.0\Source\QuaternionMathFunctions\arm_quaternion_norm_f32.c \
+  D:\Keil_v5_Packs\ARM\CMSIS-DSP\1.15.0\Include\dsp\quaternion_math_functions.h \
+  D:\Keil_v5_Packs\ARM\CMSIS-DSP\1.15.0\Include\arm_math_types.h \
+  ..\Drivers\CMSIS\Include\cmsis_compiler.h \
+  D:\Keil_v5\ARM\ARMCLANG\include\stdint.h \
+  ..\Drivers\CMSIS\Include\cmsis_armclang.h \
+  D:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h \
+  D:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h \
+  D:\Keil_v5\ARM\ARMCLANG\include\string.h \
+  D:\Keil_v5\ARM\ARMCLANG\include\math.h \
+  D:\Keil_v5\ARM\ARMCLANG\include\float.h \
+  D:\Keil_v5\ARM\ARMCLANG\include\limits.h \
+  D:\Keil_v5_Packs\ARM\CMSIS-DSP\1.15.0\Include\arm_math_memory.h \
+  D:\Keil_v5_Packs\ARM\CMSIS-DSP\1.15.0\Include\dsp\none.h \
+  D:\Keil_v5_Packs\ARM\CMSIS-DSP\1.15.0\Include\dsp\utils.h \
+  D:\Keil_v5_Packs\ARM\CMSIS-DSP\1.15.0\Source\QuaternionMathFunctions\arm_quaternion_inverse_f32.c \
+  D:\Keil_v5_Packs\ARM\CMSIS-DSP\1.15.0\Source\QuaternionMathFunctions\arm_quaternion_conjugate_f32.c \
+  D:\Keil_v5_Packs\ARM\CMSIS-DSP\1.15.0\Source\QuaternionMathFunctions\arm_quaternion_normalize_f32.c \
+  D:\Keil_v5_Packs\ARM\CMSIS-DSP\1.15.0\Source\QuaternionMathFunctions\arm_quaternion_product_single_f32.c \
+  D:\Keil_v5_Packs\ARM\CMSIS-DSP\1.15.0\Source\QuaternionMathFunctions\arm_quaternion_product_f32.c \
+  D:\Keil_v5_Packs\ARM\CMSIS-DSP\1.15.0\Source\QuaternionMathFunctions\arm_quaternion2rotation_f32.c \
+  D:\Keil_v5_Packs\ARM\CMSIS-DSP\1.15.0\Source\QuaternionMathFunctions\arm_rotation2quaternion_f32.c
